@@ -1,0 +1,21 @@
+||SG, SİKTİR, OÇ|| Gibi komutlar oluşturun altına bunu yapıştırın
+
+```
+
+$nomention
+
+$title[küfür alarmı]
+
+$thumbnail[$authorAvatar]
+
+$footerIcon[$authorAvatar]
+
+$footer[Yasaklı kelime kullanmayalım]
+
+$addTimestamp
+
+$description[``$username`` 🤖yasaklı kelimeyi kullandın. küfür etmemlisin🤖]
+
+$deletecommand
+
+```
